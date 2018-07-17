@@ -4,7 +4,8 @@ Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick and simple.
 Hello Lucy!
-C++ is fun!
-PHP is not fun!
-Java is really fun!
+
+
+
+
 
