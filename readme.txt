@@ -6,4 +6,5 @@ Creating a new branch is quick and simple.
 Hello Lucy!
 C++ is fun!
 PHP is fun!
+Java is fun!
 
