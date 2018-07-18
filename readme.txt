@@ -5,8 +5,10 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 Hello Lucy!
 Git is fun!
-I can't stop it.
-Try again.
+Git review is interesting!
+git init
+git config --list
+git config --global user.name "zuoshiyu"
 
 
 
