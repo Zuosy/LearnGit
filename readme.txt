@@ -10,6 +10,5 @@ git init
 git config --list
 git config --global user.name "zuoshiyu"
 Git create a new branch is quick and simple.
-
-
+Coder should like coffee, but I don't like coffee very much.
 
